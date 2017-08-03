@@ -6,7 +6,7 @@ body {
 h1 {
   font-size: 70px;
   font-weight: bold;
-  /*color: white;*/
+  color: white;
 }
 
 .header {
@@ -51,4 +51,16 @@ h3 {
   font-size 11px;
   background-color: dimgray;
   width: 1250px;
+}
+/*Attempt to fix Navigation*/
+span {
+  text-decoration: underline;
+  text-decoration-color: white;
+  color: white;
+  font-size: 18px;
+}
+
+#end {
+  font-size: 11px;
+  
 }
